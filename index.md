@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: cv
 title: Orange's Resume
 email:
   url: mailto:czmmno.1@gmail.com
