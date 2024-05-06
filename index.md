@@ -7,7 +7,7 @@ email:
 homepage:
   url: https://xorange.cafe
   text: xorange.cafe
-phone：
+phone:
   url：18320509120
   text：18320509120
 ---
